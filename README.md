@@ -1,2 +1,9 @@
 # CKME136-Capstone-Project
 CKME136 Capstone Project - Walmart Sales Prediction
+
+Introduction
+Walmart Inc. is a multinational retail company that has more than ten-thousands stores worldwide. Selling all sorts of products including, grocery, household items, furniture, clothing, jewelry, electronics, and more. It is always hard to predict accurate sales for a huge company like Walmart, as many hidden factors could affect sales. Since the past centuries, various predictive methods and models have been developed, and Walmart Inc. must choose an accurate method for predicting future sales as it influences management decisions. With an accurate prediction of sales, management could better allocate resources for marketing and finding out which departments are doing poorly to maximize profit. Using Walmart Dataset from Kaggle as a case study, this project seeks to address the following question:
+With the use of deep learning approaches in time series data, does the predict of sales become more accurate compared to traditional time series methods and regression methods?
+By computing time series methods (Moving Average - MA, Auto-Regressive Integrated Moving Average - ARIMA, Seasonal ARIMA - SARIMA, Holt’s Winter seasonal method, and Support Vector Regression - SVR), deep learning of neural network methods (Long Short Term Memory - LSTM and Gated Recurrent Units - GRU), also with regression methods (Univariate Linear Regression, Multiple Regression, Decision Tree and Random Forest). All of the mentioned above methods would be compared against Weighted Mean Absolute Error (WMAE) as requested in Kaggle. Tools such as RStudio, Python, Weka, and Tableau would be used throughout the project. The best model would be used to compute future sales in the test.csv as a conclusion. Limitations and recommendations will also be provided.
+
+This Kaggel competition is available at https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
