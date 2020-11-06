@@ -1,5 +1,5 @@
-# CKME136-Capstone-Project
-## CKME136 Capstone Project - Walmart Sales Prediction
+# 
+## Walmart Sales Prediction
 
 ![Image of Walmart](https://live.staticflickr.com/2859/13753784185_7ddce42fd0_b.jpg)
 
